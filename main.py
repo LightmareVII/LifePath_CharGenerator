@@ -1,20 +1,20 @@
 """This is the docstring they fucking meant"""
 import Character
-import ImportExport
+import Import
 from rolls import rollDice
-import SavePDF
+import ExportPDF
 
-buildPDF = SavePDF.generatePDF()
+buildPDF = ExportPDF.generatePDF()
 
 skillList = ['Athletics','Acrobatics','SleightOfHand','Stealth','Arcana','History','Investigation',
              'Nature', 'Religion', 'AnimalHandling', 'Insight', 'Medicine','Perception','Survival',
              'Deception','Intimidation','Performance','Persuasion']
 
 Rolls = rollDice()
-Tables = ImportExport.tableActivity()
-tableContent = {"Academic":ImportExport.tables.Import.academicTable(),
-                "Life":ImportExport.tables.Import.lifeTable(),
-                "Military":ImportExport.tables.Import.militaryTable()}
+Tables = Import.tableActivity()
+tableContent = {"Academic":Import.tables.Import.academicTable(),
+                "Life":Import.tables.Import.lifeTable(),
+                "Military":Import.tables.Import.militaryTable()}
 
 Player = input("Player Name: ")
 Char = input("Character Name: ")
