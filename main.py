@@ -64,7 +64,6 @@ if Char.PlayerInfo.Appearance:
     buildPDF.sectionTitle('Physical Traits')
     buildPDF.writeAppearance(Char.PlayerInfo.Appearance)
 
-Char.Skills.Handicap.append('Picks nose all the time')
 if Char.PlayerInfo.Contacts or Char.Skills.Handicap or Char.Skills.BonusSkills:
     buildPDF.sectionTitle('Extra')
     buildPDF.writeBonusFeatures(Char.PlayerInfo.Contacts, Char.Skills.Handicap, Char.Skills.BonusSkills)
