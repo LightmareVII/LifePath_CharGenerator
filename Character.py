@@ -1,8 +1,25 @@
 """Object constructors for Character Instance"""
 import math
 
-CANTRIP_LIST = []
-SPELL_LIST = {'1':['Level1 Spell'],
+CANTRIP_LIST = ['Acid Splash', 'Blade Ward', 'Booming Blade', 'Chill Touch', 'Control Flames',
+'Create Bonfire', 'Dancing Lights', 'Druidcraft', 'Eldritch Blast', 'Fire Bolt', 'Friends',
+'Frostbite', 'Green-Flame Blade', 'Guidance', 'Gust', 'Infestation', 'Light', 'Lightning Lure',
+'Mage Hand', 'Magic Stone', 'Mending', 'Message', 'Minor Illusion', 'Mold Earth', 'Poison Spray',
+'Prestidigitation', 'Primal Savagery', 'Produce Flame', 'Ray of Frost', 'Resistance', 'Sacred Flame',
+'Shape Water', 'Shillelagh', 'Shocking Grasp', 'Spare the Dying', 'Sword Burst', 'Thaumaturgy',
+'Thorn Whip', 'Thunderclap', 'Toll the Dead', 'True Strike', 'Vicious Mockery', 'Word of Radiance',]
+SPELL_LIST = {'1':['Absorb Elements', 'Alarm', 'Animal Friendship', 'Armor of Agathys', 'Arms of Hadar',
+'Bane', 'Beast Bond', 'Bless', 'Burning Hands', 'Catapult', 'Cause Fear', 'Ceremony', 'Chaos Bolt',
+'Charm Person', 'Chromatic Orb', 'Color Spray', 'Command', 'Compelled Duel', 'Comprehend Languages',
+'Create or Destroy Water', 'Cure Wounds', 'Detect Evil and Good', 'Detect Magic', 'Detect Poison and Disease',
+'Disguise Self', 'Dissonant Whispers', 'Divine Favor', 'Earth Tremor', 'Ensnaring Strike', 'Entangle',
+'Expeditious Retreat', 'Faerie Fire', 'False Life', 'Feather Fall', 'Find Familiar', 'Fog Cloud',
+'Goodberry', 'Grease', 'Guiding Bolt', 'Hail of Thorns', 'Healing Word', 'Hellish Rebuke', 'Heroism',
+'Hex', "Hunter's Mark", 'Ice Knife', 'Identify', 'Illusory Script', 'Inflict Wounds', 'Jump', 'Longstrider',
+'Mage Armor', 'Magic Missile', 'Protection from Evil and Good', 'Purify Food and Drink', 'Ray of Sickness',
+'Sanctuary', 'Searing Smite', 'Shield', 'Shield of Faith', 'Silent Image', 'Sleep', 'Snare', 'Speak with Animals',
+"Tasha's Hideous Laughter", "Tenser's Floating Disk", 'Thunderous Smite', 'Thunderwave', 'Unseen Servant',
+'Witch Bolt', 'Wrathful Smite', 'Zephyr Strike'],
               '2':['Level2 Spell'],
               '3':['Level3 Spell'],
               '4':['Level4 Spell'],
