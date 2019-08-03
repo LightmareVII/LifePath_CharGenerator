@@ -20,7 +20,8 @@ foreach ($i in $csv){
     default {write-host $i.Name Failed}
     }
 }
-
+<#
 foreach ($i in $spells.Level01){
     Write-Host "'$i',"
 }
+#>

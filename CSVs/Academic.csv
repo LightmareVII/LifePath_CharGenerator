@@ -1,101 +1,101 @@
-num,PastExperience,STR,DEX,CON,INT,WIS,CHA,Athletics,Acrobatics,SleightOfHand,Stealth,Arcana,History,Investigation,Nature,Religion,AnimalHandling,Insight,Medicine,Perception,Survival,Deception,Intimidation,Performance,Persuasion,Tools,Instruments,Renown,Contacts,ExtraLanguages,Language,ExtraCantrips,Cantrip,ExtraSpells,Spells,ExtraItems,Speed,CarryWeight,BonusSkills,Handicap,Appearance,Platinum,Gold,Silver,Copper
-1,Found a long lost document,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,1,,0,,0,,,0,0,,,,0,0,0,0
-2,Joined scientific expedition for 1 month,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-3,Poisoned by large spider in library. Recover.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-4,Took job as delivery boy for campus mail system,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0
-5,Spent months studying nature,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Choose a favored terrain.  +2 when foraging in this terrain.,,,0,0,0,0
-6,Discovered hidden insight in a rare tome,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-7,Took a month to rally for workers rights under a brutal leader,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0,,0,,0,,,0,0,,,,0,0,0,0
-8,Forced to avoid crazy Ex while attending classes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-9,Roomed with a student from another realm,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,1,,0,,0,,,0,0,,,,0,0,0,0
-10,Sold a book detailing how to pass the hardest course,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,1,0,0
-11,Earned money transcriping spell books for months,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,1,,0,,,0,0,,,,0,0,50,0
-12,Death of a close friends brings meaning to your life,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-13,Spent months studying Architecture of nearby castle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Drawing Supplies/Scroll Case,0,0,,,,0,0,0,0
-14,Omens become more meaningful to you,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Can ask oracles 1 more question,,,0,0,0,0
-15,Hiked across realm collecting insect samples,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-16,Worked in mine as a mineral identifier,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,2 appraise/identify common and uncommon minerals and metals,,,0,0,0,0
-17,Ran for local political office,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-18,Grew up hunting with a bow,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,2x when scavenging for food or furs,,,0,0,0,0
-19,Father instilled love of books. Didin't play outside much,0,0,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-20,Cared for elderly relatives,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-21,Raised by low level noble parents. Best of all things. Educated.,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,5,0,0
-22,First Aid course turn real when goblins attack,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,+2 Track Goblinoids.  +2 Find and Disarm Goblin Traps,,,0,0,0,0
-23,Have a knack for chess. Play constantly,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Dragonchess Pieces,0,0,,,,0,0,0,0
-24,Study animal tracks in the field,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-25,Housekeeper is a horrible cook. Manage to survive,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Advantage against ingested poison,,,0,0,0,0
-26,Like to gamble. Lose Regularly. Have to fight off bookies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,Start with half money amount,,0,0,0,0
-27,Hang head wizard's hat on flagpole,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-28,Overcome your shyness and become more outgoing,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0
-29,Scale the highest peak in your area in your free time,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Adventuring Gear,0,0,,,,0,0,0,0
-30,Wizard creates spell to build muscle. He gets rich. You get stronger.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-31,Discover extinct primitive cult. Wrote book on their lore,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Can know Layout of 1 Dungeon (up to level 5),,,0,0,0,0
-32,Close relative was a healer. Taught you many things.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-33,Solved riddle that barred entry to an ancient tomb,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,May ask 1 hint on riddles (level 1-5),,,0,0,0,0
-34,Helped clear out an undead problem at local cemetary,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0
-35,Alchemy experiment goes awry. You get faster.,0,1,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,5,0,,,,0,0,0,0
-36,Crash the Dean's Dinner uninvited. Blend in.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-37,Whittled small wooden animals for children,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woodworking,,0,0,0,,0,,0,,,0,0,Greater chance to gain info from children,,,0,0,0,0
-38,Learned to Dance,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-39,Fild trip to other planes of existance,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,advantage to identify something extra-planar,,,0,0,0,0
-40,Campus hit by worst ice storm in history,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-41,Performed autopsies on several condemned prisoners,0,0,0,0,2,0,0,0,0,0,0,0,0,-1,0,0,0,2,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0
-42,Learned to play the flute,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Flute,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-43,Spell backfires. Fries your frontal lobe.,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,,0,0,0,,0,,0,,,0,0,,,Scar or Burn,0,0,0,0
-44,Rebound books for extra money,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Appraise Books,,,0,0,25,0
-45,Exchange knowledge with a Treant while sampling tree bark,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-46,Study Astronomy and the movements of the moon,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-47,Identify illness spreading through village,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,,,2,0,0,,0,,0,,,0,0,,,,0,0,0,0
-48,Edited Professor's newly written book,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,1,0,0
-49,One month tutelage under bad teacher,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-50,Mapped nearby river,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cartographer,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-51,Developed a drug habit,0,0,-1,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,Addicted,,0,0,0,0
-52,Discovered two new species of plants. Useful in Alchemy,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2,0,0,,0,,0,,,0,0,Advantage to find reagents,,,0,0,0,0
-53,Helped elderly cleric minister to the poor,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-54,Help create constructs for head wizard,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0
-55,Forcast a major flood and saved numerous lives,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2,0,0,,0,,0,,,0,0,Lodging and meals free in town of origin,,,0,0,0,0
-56,Contract major illness. Unable to study or attend classes,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-57,Robbed at knifepoint. Talked thugs out of it.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-58,Tamed a small bear with reats and soft words,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Bear cub companion,,,0,0,0,0
-59,Out ran a supposed tamed tiger when it attacked a crowd,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-60,Found a shipwreck in the desert. Copied strange symbols,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-61,Joined the choir to impress a member of the opposite sex,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-62,Researched Venomous snakes. Wrote a paper.,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-63,Took a month off to find oneself,0,0,0,0,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-64,Repaired fishing nets for room and board,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,5,0
-65,Elected Academic body president,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0
-66,Shortest route to class was across roof tops,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-67,Successfully homebrewed healing potions,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brewing,,0,0,0,,0,,0,,3 Healing Potions,0,0,,,,0,0,0,0
-68,Received 1st in cantrips,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,1,,0,,,0,0,,,,0,0,0,0
-69,Introduced to mysticism,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-70,Created overly elaborate mechanism to turn book pages,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tinkerer,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-71,Was assigned a dorm on the 8th floor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,5,,,,0,0,0,0
-72,Went without sleep for 3 days while exams were given,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-73,"Started ""filling out"" better late then never",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-74,Lonely nights. You learned to roll coins on your fingers.,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Perform coin trick,,,0,0,0,0
-75,Research trip to ancient ruins. Pack animals died.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,10,,,,0,0,0,0
-76,One month at local monastery,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-77,Sat in on inquest jury,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-78,Professor killed by bugbear. Visiting scholar fills in,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-79,Tamed Elementals for basic course. Rock dropped on foot,0,-1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-80,Conjured a devil just to see if it would work,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Imp familiar,,,0,0,0,0
-81,Delivered a baby during a terrible storm,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0
-82,Translated Ancient scrolls into common,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,1,,0,,0,,,0,0,,,,0,1,0,0
-83,Passed off transmuted copper as silver,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,300,0
-84,Snuck into class late every day for a month,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-85,Survived a childhood sickness,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-86,Saved fellow student from collapsing bookshelf,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0
-87,Pranked University with an illusionary Dragon,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Cast Illusory Dragon(NOT THE 8th LEVEL VERSION),,,0,0,0,0
-88,Learned from the medicine man of a primitive tribe that you lived with,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-89,Enchanted a kobold that followed you around,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,Charm,,0,0,,,,0,0,0,0
-90,Blessed words from your diety fall on your ears,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-91,Caught writing papers for other students,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-92,Talked way into class you were not qualified for.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-93,Fireball Training,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Advantage to avoid Fireballs,,,0,0,0,0
-94,Worked special effects for a local theatre,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,Prestidigitaion,0,,,0,0,,,,0,1,0,0
-95,Four weeks with a Master Diviner,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,1 use of Portent,,,0,0,0,0
-96,One month crafting Holy Symbols,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woodworking,,0,0,0,,0,,0,,,0,0,,,,0,2,0,0
-97,Locked yourself out of your own room. Picked the lock,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Thieves Kit,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0
-98,Climbed a cliff face to retrieve rare feather for a spell,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0
-99,Completed a four week fast,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Half rations counts as full ration,,,0,0,0,0
-100,Serve as a battlefield caster,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Rank Insignia,0,0,,,,0,0,50,0
+num,PastExperience,STR,DEX,CON,INT,WIS,CHA,Athletics,Acrobatics,SleightOfHand,Stealth,Arcana,History,Investigation,Nature,Religion,AnimalHandling,Insight,Medicine,Perception,Survival,Deception,Intimidation,Performance,Persuasion,Tools,Instruments,Renown,Contacts,ExtraLanguages,Language,ExtraCantrips,Cantrip,ExtraSpells,Spells,ExtraItems,Speed,CarryWeight,BonusSkills,Handicap,Appearance,Platinum,Gold,Silver,Copper,Rank
+1,Found a long lost document,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,1,,0,,0,,,0,0,,,,0,0,0,0,0
+2,Joined scientific expedition for 1 month,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+3,Poisoned by large spider in library. Recover.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+4,Took job as delivery boy for campus mail system,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+5,Spent months studying nature,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Choose a favored terrain.  +2 when foraging in this terrain.,,,0,0,0,0,0
+6,Discovered hidden insight in a rare tome,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+7,Took a month to rally for workers rights under a brutal leader,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+8,Forced to avoid crazy Ex while attending classes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+9,Roomed with a student from another realm,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,1,,0,,0,,,0,0,,,,0,0,0,0,0
+10,Sold a book detailing how to pass the hardest course,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,1,0,0,0
+11,Earned money transcriping spell books for months,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,1,,0,,,0,0,,,,0,0,50,0,0
+12,Death of a close friends brings meaning to your life,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+13,Spent months studying Architecture of nearby castle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Drawing Supplies/Scroll Case,0,0,,,,0,0,0,0,0
+14,Omens become more meaningful to you,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Can ask oracles 1 more question,,,0,0,0,0,0
+15,Hiked across realm collecting insect samples,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+16,Worked in mine as a mineral identifier,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,2 appraise/identify common and uncommon minerals and metals,,,0,0,0,0,0
+17,Ran for local political office,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+18,Grew up hunting with a bow,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,2x when scavenging for food or furs,,,0,0,0,0,0
+19,Father instilled love of books. Didin't play outside much,0,0,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+20,Cared for elderly relatives,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+21,Raised by low level noble parents. Best of all things. Educated.,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,5,0,0,0
+22,First Aid course turn real when goblins attack,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,+2 Track Goblinoids.  +2 Find and Disarm Goblin Traps,,,0,0,0,0,0
+23,Have a knack for chess. Play constantly,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Dragonchess Pieces,0,0,,,,0,0,0,0,0
+24,Study animal tracks in the field,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+25,Housekeeper is a horrible cook. Manage to survive,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Advantage against ingested poison,,,0,0,0,0,0
+26,Like to gamble. Lose Regularly. Have to fight off bookies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,Start with half money amount,,0,0,0,0,0
+27,Hang head wizard's hat on flagpole,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+28,Overcome your shyness and become more outgoing,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+29,Scale the highest peak in your area in your free time,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Adventuring Gear,0,0,,,,0,0,0,0,0
+30,Wizard creates spell to build muscle. He gets rich. You get stronger.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+31,Discover extinct primitive cult. Wrote book on their lore,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Can know Layout of 1 Dungeon (up to level 5),,,0,0,0,0,0
+32,Close relative was a healer. Taught you many things.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+33,Solved riddle that barred entry to an ancient tomb,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,May ask 1 hint on riddles (level 1-5),,,0,0,0,0,0
+34,Helped clear out an undead problem at local cemetary,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+35,Alchemy experiment goes awry. You get faster.,0,1,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,5,0,,,,0,0,0,0,0
+36,Crash the Dean's Dinner uninvited. Blend in.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+37,Whittled small wooden animals for children,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woodworking,,0,0,0,,0,,0,,,0,0,Greater chance to gain info from children,,,0,0,0,0,0
+38,Learned to Dance,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+39,Fild trip to other planes of existance,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,advantage to identify something extra-planar,,,0,0,0,0,0
+40,Campus hit by worst ice storm in history,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+41,Performed autopsies on several condemned prisoners,0,0,0,0,2,0,0,0,0,0,0,0,0,-1,0,0,0,2,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+42,Learned to play the flute,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Flute,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+43,Spell backfires. Fries your frontal lobe.,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,,0,0,0,,0,,0,,,0,0,,,Scar or Burn,0,0,0,0,0
+44,Rebound books for extra money,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Appraise Books,,,0,0,25,0,0
+45,Exchange knowledge with a Treant while sampling tree bark,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+46,Study Astronomy and the movements of the moon,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+47,Identify illness spreading through village,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,,,2,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+48,Edited Professor's newly written book,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,1,0,0,0
+49,One month tutelage under bad teacher,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+50,Mapped nearby river,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cartographer,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+51,Developed a drug habit,0,0,-1,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,Addicted,,0,0,0,0,0
+52,Discovered two new species of plants. Useful in Alchemy,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2,0,0,,0,,0,,,0,0,Advantage to find reagents,,,0,0,0,0,0
+53,Helped elderly cleric minister to the poor,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+54,Help create constructs for head wizard,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+55,Forcast a major flood and saved numerous lives,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2,0,0,,0,,0,,,0,0,Lodging and meals free in town of origin,,,0,0,0,0,0
+56,Contract major illness. Unable to study or attend classes,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+57,Robbed at knifepoint. Talked thugs out of it.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+58,Tamed a small bear with reats and soft words,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Bear cub companion,,,0,0,0,0,0
+59,Out ran a supposed tamed tiger when it attacked a crowd,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+60,Found a shipwreck in the desert. Copied strange symbols,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+61,Joined the choir to impress a member of the opposite sex,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+62,Researched Venomous snakes. Wrote a paper.,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+63,Took a month off to find oneself,0,0,0,0,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+64,Repaired fishing nets for room and board,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,5,0,0
+65,Elected Academic body president,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+66,Shortest route to class was across roof tops,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+67,Successfully homebrewed healing potions,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brewing,,0,0,0,,0,,0,,3 Healing Potions,0,0,,,,0,0,0,0,0
+68,Received 1st in cantrips,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,1,,0,,,0,0,,,,0,0,0,0,0
+69,Introduced to mysticism,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+70,Created overly elaborate mechanism to turn book pages,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tinkerer,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+71,Was assigned a dorm on the 8th floor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,5,,,,0,0,0,0,0
+72,Went without sleep for 3 days while exams were given,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+73,"Started ""filling out"" better late then never",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+74,Lonely nights. You learned to roll coins on your fingers.,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Perform coin trick,,,0,0,0,0,0
+75,Research trip to ancient ruins. Pack animals died.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,10,,,,0,0,0,0,0
+76,One month at local monastery,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+77,Sat in on inquest jury,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+78,Professor killed by bugbear. Visiting scholar fills in,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+79,Tamed Elementals for basic course. Rock dropped on foot,0,-1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+80,Conjured a devil just to see if it would work,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Imp familiar,,,0,0,0,0,0
+81,Delivered a baby during a terrible storm,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+82,Translated Ancient scrolls into common,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,1,,0,,0,,,0,0,,,,0,1,0,0,0
+83,Passed off transmuted copper as silver,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,300,0,0
+84,Snuck into class late every day for a month,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+85,Survived a childhood sickness,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+86,Saved fellow student from collapsing bookshelf,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+87,Pranked University with an illusionary Dragon,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Cast Illusory Dragon(NOT THE 8th LEVEL VERSION),,,0,0,0,0,0
+88,Learned from the medicine man of a primitive tribe that you lived with,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+89,Enchanted a kobold that followed you around,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,Charm,,0,0,,,,0,0,0,0,0
+90,Blessed words from your diety fall on your ears,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+91,Caught writing papers for other students,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+92,Talked way into class you were not qualified for.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+93,Fireball Training,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Advantage to avoid Fireballs,,,0,0,0,0,0
+94,Worked special effects for a local theatre,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,Prestidigitaion,0,,,0,0,,,,0,1,0,0,0
+95,Four weeks with a Master Diviner,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,1 use of Portent,,,0,0,0,0,0
+96,One month crafting Holy Symbols,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woodworking,,0,0,0,,0,,0,,,0,0,,,,0,2,0,0,0
+97,Locked yourself out of your own room. Picked the lock,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Thieves Kit,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+98,Climbed a cliff face to retrieve rare feather for a spell,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+99,Completed a four week fast,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Half rations counts as full ration,,,0,0,0,0,0
+100,Serve as a battlefield caster,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Rank Insignia,0,0,,,,0,0,50,0,0

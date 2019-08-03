@@ -52,7 +52,7 @@ class tables():
                 return list(temp)
 
         def militaryTable():
-            path = "./CSVs/Academic.csv"
+            path = "./CSVs/Military.csv"
             with open(path) as pathCSV:
                 temp = csv.DictReader(pathCSV)
                 return list(temp)

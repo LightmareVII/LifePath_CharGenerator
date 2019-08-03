@@ -36,6 +36,7 @@ for i in Rolls.pathRolls:
 
 buildPDF.pageTitle(Char.PlayerInfo)
 buildPDF.writeStats(Char.Stats, Char.Stats.Speed, Char.Stats.Renown)
+buildPDF.writeRank(Char.PlayerInfo.Rank)
 
 
 if any(getattr(Char.Skills, x) for x in skillList):

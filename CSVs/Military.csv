@@ -1,0 +1,101 @@
+num,PastExperience,STR,DEX,CON,INT,WIS,CHA,Athletics,Acrobatics,SleightOfHand,Stealth,Arcana,History,Investigation,Nature,Religion,AnimalHandling,Insight,Medicine,Perception,Survival,Deception,Intimidation,Performance,Persuasion,Tools,Instruments,Renown,Contacts,ExtraLanguages,Language,ExtraCantrips,Cantrip,ExtraSpells,Spells,ExtraItems,Speed,CarryWeight,BonusSkills,Handicap,Appearance,Platinum,Gold,Silver,Copper,Rank
+1,Insubordinate. demoted and learned humility,0,0,0,0,1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,-1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+2,Studied Historical battles,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+3,Mediated military disputes between soldiers,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+4,Joined the Archer Corps,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,Bow of choice,0,0,Proficient in Bow of Choice,,,0,0,0,0,0
+5,Marched Barefoot for 20 miles,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,5,0,Choose a favored terrain.  +2 when foraging in this terrain.,,,0,0,0,0,0
+6,In charge of placing horses in armor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,1 Warhorse,0,0,,,,0,0,0,0,0
+7,Lead your men on an assualt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+8,Dodged every arrow during an ambush,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,You can’t be surprised while you are conscious,,,0,0,0,0,0
+9,Rallied your troops when the odds were against you,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,2,0,1,,0,,0,,,0,0,,,,0,0,0,0,0
+10,Master Tactician. Promoted to Officer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,12,0,0,1
+11,Built a bridge during a campaign against an enemy force,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woodworking,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+12,Channeled your inner rage,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,1 Rage a day,,,0,0,0,0,0
+13,Weapon training with heavy arms,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Any 2 handed/heavy weapon of choice,0,0,Proficient with chosen weapon,,,0,0,0,0,0
+14,Served on a ship.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Sailor feature,,,0,12,0,0,1
+15,Assistant to the General. Worked with Battle maps.,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,1
+16,Integrated magic into an assault,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+17,Lead a mounted division,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,12,0,0,1
+18,Crossbow practice. Placed First,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,1 to hit with crossbows,,,0,0,0,0,0
+19,Wrestled bears to show off and prove strength,1,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+20,Bitter winters during tour of duty,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+21,Naturally Athletic,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+22,Jungle mission. Withstood thousands of bug bites.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+23,Deck duty on Navy ship. Rigging and sails,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Dragonchess Pieces,0,0,Sailor Feature,,,0,1,0,0,0
+24,Food poisoning spreads through camp.  You are uneffected,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+25,Tracked enemy troops through the mountians,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Advantage against ingested poison,,,0,0,0,0,0
+26,Planned a perfect ambush. Lost no men.,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,12,0,0,1
+27,Infiltrated enemy headquarters. Extracted information,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+28,Turned a double agent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+29,Identified a spy in your ranks,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+30,Got a ship to port after the death of your captain,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,Sailor feature,,,0,0,0,0,0
+31,Loaded the catapult during a seige,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Proficient Siege Weapons,,,0,0,0,0,0
+32,Survived several battles with many injuries,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+33,Carried two injured soldiers to safety,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,2,0,,0,,0,,,0,0,,,,0,0,0,0,0
+34,Ate the heart of your enemy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,-1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+35,Fought a giant scorpion. Only got stung once,0,1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,resistant to poison from creatures,,,0,0,0,0,0
+36,Instigated a mutiny against enemy captain,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+37,Worked the crow's nest during rough seas,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Sailor Feature,,,0,0,0,0,0
+38,Appointed liason for an occupied town,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+39,Hoisted up the anchor on a ship,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Sailor Feature,,,0,0,0,0,0
+40,Deserted a battle and escaped while being pursued,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,-1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+41,Worked the war-forge making weapons,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Smithing,,0,0,0,,0,,0,,Master Work Weapon,0,0,,,,0,0,0,0,0
+42,Gambled with officers. Took them for 2 months wages,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,24,0,0,0
+43,Kicked by a Calvary Horse,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,-5,0,,,,0,0,0,0,0
+44,Put on potato peeling duty,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+45,Stuck out a month seige of a keep,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,can survive on 1/2 rations,,,0,0,0,0,0
+46,Buried the fallen,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+47,Had 4 arrows removed from your leg,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,-5,0,,,,0,0,0,0,0
+48,Worked the battering ram,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+49,Contracted a disease while serving abroad,0,0,-1,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Potion Kit,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+50,Latrine digging duty,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,Shovel,0,0,,,,0,0,0,0,0
+51,Punctured a lung in a battle,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+52,Captured and used as slave labor,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Manacles,0,0,,,,0,0,0,0,0
+53,Completed an incursion into the underdark.  Ventured 300 miles,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+54,Forage patrol. Looted a ten mile swath along the main line,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+55,Rode out a famine while pinned down at a fort,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Can survive on half rations,,,0,0,0,0,0
+56,Tore shoulder muscle ina duel.  Won.,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+57,Conscripted peasants for large offensive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+58,Stranded on deserted island after shipwreck,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Sailor feature,,,0,0,0,0,0
+59,Repaired saddles for the mounted division,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Leatherworking,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+60,Cut timber and helped build a barracks,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woodworking,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+61,Negotiated a surrender from an enemy,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+62,Received 40 lashes for punching an officer (they deserved it),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+63,Talked your way out of physical training,-1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+64,Learned dozens of knots while working on a ship,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Sailor feature,,,0,2,0,0,0
+65,Swore vengeance against a foe that wiped out your company,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+66,Functioned as a sniper,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,Ranged Weapon,0,0,Prof with ranged weapon,,,0,0,0,0,0
+67,Stood guard in the worst weather possible,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+68,Lifted a horse off a comrade that was cut down,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Double lift and drag weight,,,0,0,0,0,0
+69,You often boxed fellow soldiers for cash and rations,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,5,0,0,0
+70,Was assigned oar duty on a warship,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Sailor feature,,,0,0,0,0,0
+71,Calculated trajectories for siege weapons,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,5,Prof with seige weapons,,,0,12,0,0,1
+72,Served as a scout,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+73,Inspired a dying soldier,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+74,Assassinated a commander of enemy troops with one shot,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,1 to hit and damage with ranged,,,0,12,0,0,1
+75,Created a logistical system to supply the main army,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,12,0,0,1
+76,Helped out in medical camp. Tended to the injured,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+77,Had an arrow pushed through and snapped off,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+78,Nine kills in hand to hand combat,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+79,Arm caught in main ropes of a war machine,0,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+80,Appointed executioner of prisoners. Beheading with an axe.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0,0,,0,,0,,Great Axe,0,0,Prof with Great Axe,,,0,0,0,0,0
+81,Endured hot iron branding,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+82,Holy words inspired your bravery and made you stronger,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+83,Impressed the General and received a promotion,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,12,0,0,1
+84,Snuck onto an enemy ship and sabotaged it,0,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+85,Saw a diety on the battlefield,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,God Touched,,,0,0,0,0,0
+86,Managed supply lines for a battalion,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+87,Carried your regimental colors,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+88,Went without sleep for days while observing enemy positions,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,1,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+89,Cranked back a ballista by yourself,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Prof with seige weapons,,,0,0,0,0,0
+90,Your whole body is tattooed,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+91,Angered a bunch of officers.  Demoted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,-1,0,0,,0,,0,,,0,0,,,,0,0,0,0,-1
+92,Bestowed honors of bravery by King,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,2,0,0,,0,,0,,,0,0,,,,0,24,0,0,2
+93,Ran a message through the battlefield to Lord in charge,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,5,0,,,,0,0,0,0,0
+94,Honorably disarmed and faced an enemy with fists,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+95,Fought off a pack of war dogs while defending a fallen soldier,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
+96,Continued fighting even while on fire,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0,0,,0,,0,,,0,0,,,scars,0,0,0,0,0
+97,Disarmed an enemy trap,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
+98,Made money dealing in contrband. Economics of war.,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,-2,0,0,,0,,0,,,0,0,,,,0,20,0,0,0
+99,Saw the true face of evil and swore to destroy it,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Devil Touched,,,0,0,0,0,0
+100,Promoted and sent to Command School,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,2,0,,0,,0,,Rank Insignia,0,0,,,,0,12,0,0,1

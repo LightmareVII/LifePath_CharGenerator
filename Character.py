@@ -41,6 +41,7 @@ class PlayerInfo(object):
         self.PastExperience = []
         self.Appearance = []
         self.Contacts = 0
+        self.Rank = 0
 
 class Str(object):
     def __init__(self):
@@ -278,6 +279,9 @@ class Character(object):
     def changeAppearance(self, trait):
         if trait:
             self.PlayerInfo.Appearance.append(trait)
+            
+    def addRank(self, increase):
+        self.PlayerInfo.Rank += increase
         
     def buildCharacter(self, csvList, pathRoll):
         type(csvList)
@@ -332,3 +336,4 @@ class Character(object):
             self.addCurrency('Silver', int(result['Silver']))
             self.addCurrency('Gold', int(result['Gold']))
             self.addCurrency('Platinum', int(result['Platinum']))
+            self.addRank(int(result['Rank']))

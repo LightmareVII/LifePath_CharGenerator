@@ -200,7 +200,6 @@ class generatePDF(object):
         if Handicap:
             self.pdf.cell(35, 8, 'Handicap: ', 0, 0, 'L')
             for i in Handicap:
-                print(i, Handicap.index(i))
                 if Handicap.index(i) < len(Handicap) - 1:
                     line = 2
                 else:
@@ -221,7 +220,17 @@ class generatePDF(object):
         if Appearance:
             self.pdf.cell(35, 8, 'Appearance: ', 0, 0, 'L')
             for i in Appearance:
-                self.pdf.cell(35, 8, i, 0, 2, 'L')
+                if Appearance.index(i) < len(Appearance) -1:
+                    line = 2
+                else:
+                    line = 1
+                self.pdf.cell(35, 8, i, 0, line, 'L')
+                
+    def writeRank(self, Rank):
+        self.pdf.set_font('Arial', '', 12)
+        if Rank:
+            self.pdf.cell(35, 8, 'Rank: ', 0, 0, 'L')
+            self.pdf.cell(35, 8, '%s' % Rank, 0, 1, 'L')
 
     def savePDF(self, PlayerName):
         self.pdf.output(self.parentpath + PlayerName + '.pdf')
