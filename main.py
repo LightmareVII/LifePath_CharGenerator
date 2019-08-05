@@ -3,7 +3,9 @@ import Character
 import Import
 from rolls import rollDice
 import ExportPDF
+from header import Title
 
+print(Title)
 buildPDF = ExportPDF.generatePDF()
 
 skillList = ['Athletics','Acrobatics','SleightOfHand','Stealth','Arcana','History','Investigation',

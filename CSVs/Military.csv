@@ -6,7 +6,7 @@ num,PastExperience,STR,DEX,CON,INT,WIS,CHA,Athletics,Acrobatics,SleightOfHand,St
 5,Marched Barefoot for 20 miles,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,5,0,Choose a favored terrain.  +2 when foraging in this terrain.,,,0,0,0,0,0
 6,In charge of placing horses in armor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,1 Warhorse,0,0,,,,0,0,0,0,0
 7,Lead your men on an assualt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
-8,Dodged every arrow during an ambush,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,You can’t be surprised while you are conscious,,,0,0,0,0,0
+8,Dodged every arrow during an ambush,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,You can't be surprised while you are conscious,,,0,0,0,0,0
 9,Rallied your troops when the odds were against you,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,2,0,1,,0,,0,,,0,0,,,,0,0,0,0,0
 10,Master Tactician. Promoted to Officer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,12,0,0,1
 11,Built a bridge during a campaign against an enemy force,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woodworking,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0

@@ -284,10 +284,7 @@ class Character(object):
         self.PlayerInfo.Rank += increase
         
     def buildCharacter(self, csvList, pathRoll):
-        type(csvList)
-        type(pathRoll)
         for value in pathRoll:
-            type(value)
             num = value - 1
             result = csvList[num]
             

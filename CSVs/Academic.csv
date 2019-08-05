@@ -87,12 +87,12 @@ num,PastExperience,STR,DEX,CON,INT,WIS,CHA,Athletics,Acrobatics,SleightOfHand,St
 86,Saved fellow student from collapsing bookshelf,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0,,0,,0,,,0,0,,,,0,0,0,0,0
 87,Pranked University with an illusionary Dragon,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Cast Illusory Dragon(NOT THE 8th LEVEL VERSION),,,0,0,0,0,0
 88,Learned from the medicine man of a primitive tribe that you lived with,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
-89,Enchanted a kobold that followed you around,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,Charm,,0,0,,,,0,0,0,0,0
+89,Enchanted a kobold that followed you around,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,Charm Person,,0,0,,,,0,0,0,0,0
 90,Blessed words from your diety fall on your ears,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
 91,Caught writing papers for other students,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
 92,Talked way into class you were not qualified for.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
 93,Fireball Training,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,Advantage to avoid Fireballs,,,0,0,0,0,0
-94,Worked special effects for a local theatre,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,Prestidigitaion,0,,,0,0,,,,0,1,0,0,0
+94,Worked special effects for a local theatre,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,Prestidigitation,0,,,0,0,,,,0,1,0,0,0
 95,Four weeks with a Master Diviner,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,,0,,,0,0,1 use of Portent,,,0,0,0,0,0
 96,One month crafting Holy Symbols,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woodworking,,0,0,0,,0,,0,,,0,0,,,,0,2,0,0,0
 97,Locked yourself out of your own room. Picked the lock,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Thieves Kit,,0,0,0,,0,,0,,,0,0,,,,0,0,0,0,0
