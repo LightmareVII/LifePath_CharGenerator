@@ -1,10 +1,12 @@
 import csv
 import sys
-#from fpdf import FPDF
+import os
 
 class tableActivity(object):
     def __init__(self):
-        self.availableTables = ['Exit','Academic','Life','Military']
+        self.filepath = './CSVs'
+        self.filepathTables = [filename.split('.')[0] for root, dirs, files in os.walk(self.filepath) for filename in files]
+        self.availableTables = ['Exit'] + self.filepathTables
         self.userTables = []
         self.selection = 0
 
@@ -38,24 +40,16 @@ class tableActivity(object):
                 self.addUserTable(self.selection)
 
 class tables():
-    class Import():
-        def academicTable():
-            path = "./CSVs/Academic.csv"
+    def importTables(tables):
+        returnTables = {}
+        for table in tables:
+            temp = {}
+            path = './CSVs/' + table + '.csv'
             with open(path) as pathCSV:
-                temp = csv.DictReader(pathCSV)
-                return list(temp)
-
-        def lifeTable():
-            path = "./CSVs/Academic.csv"
-            with open(path) as pathCSV:
-                temp = csv.DictReader(pathCSV)
-                return list(temp)
-
-        def militaryTable():
-            path = "./CSVs/Military.csv"
-            with open(path) as pathCSV:
-                temp = csv.DictReader(pathCSV)
-                return list(temp)
+                temp[table] = list(csv.DictReader(pathCSV))
+            returnTables = {**returnTables, **temp}
+        return returnTables
+                    
 """            
     class export():
         pdf = FPDF()

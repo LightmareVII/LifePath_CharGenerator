@@ -13,10 +13,9 @@ skillList = ['Athletics','Acrobatics','SleightOfHand','Stealth','Arcana','Histor
              'Deception','Intimidation','Performance','Persuasion']
 
 Rolls = rollDice()
-Tables = Import.tableActivity()
-tableContent = {"Academic":Import.tables.Import.academicTable(),
-                "Life":Import.tables.Import.lifeTable(),
-                "Military":Import.tables.Import.militaryTable()}
+myTables = Import.tableActivity()
+
+
 
 Player = input("Player Name: ")
 Char = input("Character Name: ")
@@ -24,11 +23,14 @@ Class = input("Character Class: ")
 Race = input("Character Race: ")
 Char = Character.Character(Player, Char, Class, Race)
 
-Tables.firstTableSelection()
-Tables.continueTableSelection()
+myTables.firstTableSelection()
+myTables.continueTableSelection()
 
+tableContent = Import.tables.importTables(myTables.userTables)
+
+Rolls.buildPathRolls(myTables.userTables)
 Rolls.getTotalRolls()
-Rolls.rollsPerPath(Tables.userTables)
+Rolls.rollsPerPath(myTables.userTables)
 Rolls.Roll()
 
 for i in Rolls.pathRolls:

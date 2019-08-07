@@ -4,12 +4,14 @@ class rollDice(object):
     def __init__(self):
         self.totalRolls = 0
         self.Rolls = []
-        self.pathRolls = {'Academic':{'Total': 0,
-                                      'Rolls': []},
-                          'Life':{'Total': 0,
-                                  'Rolls': []},
-                          'Military':{'Total': 0,
-                                      'Rolls': []}}
+        self.pathRolls = {}
+        
+    def buildPathRolls(self, userTables):
+        for table in userTables:
+            tempTable = {}
+            tempTable[table] = {'Total': 0,
+                                 'Rolls': []}
+            self.pathRolls = {**self.pathRolls, **tempTable}
         
     def getTotalRolls(self):
         self.totalRolls = int(input("Total Rolls: "))
