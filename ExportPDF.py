@@ -100,7 +100,7 @@ class generatePDF(object):
             
         if Language['Known']:
             self.pdf.cell(self.blockSize, 8, 'Known: ', 0, 0, 'L')
-            for i in Language['Known']:
+            for i in range(len(Language['Known'])):
                 self.pdf.cell(self.blockSize, 8, '%s' % Language['Known'][i], 0, 2, 'L')
         
     def writeMagic(self, Cantrips, Spells):

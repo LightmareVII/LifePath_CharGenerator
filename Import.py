@@ -49,20 +49,3 @@ class tables():
                 temp[table] = list(csv.DictReader(pathCSV))
             returnTables = {**returnTables, **temp}
         return returnTables
-                    
-"""            
-    class export():
-        pdf = FPDF()
-        class Header(self):
-            pdf.set_font('Arial', 'B', 18)
-"""
-            
-            
-        
-
-
-"""
-with open('./CSVs/Academic.csv') as AcademicPath:
-    test = csv.DictReader(AcademicPath)
-    Academic = list(test)
-"""
