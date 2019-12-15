@@ -42,95 +42,34 @@ class PlayerInfo(object):
         self.Appearance = []
         self.Contacts = 0
         self.Rank = 0
-
-class Str(object):
+        
+class Ability(object):
     def __init__(self):
         self.Score = 10
         self.Mod = 0
         
-    def addStrength(self, Value):
+    def addScore(self, Value):
         if self.Score + Value > 20:
-            self.Core = 20
+            self.Score = 20
         else:
             self.Score += Value
-
-class Dex(object):
-    def __init__(self):
-        self.Score = 10
-        self.Mod = 0
-        
-    def addDexterity(self, Value):
-        if self.Score + Value > 20:
-            self.Core = 20
-        else:
-            self.Score += Value
-
-class Con(object):
-    def __init__(self):
-        self.Score = 10
-        self.Mod = 0
-        
-    def addConstitution(self, Value):
-        if self.Score + Value > 20:
-            self.Core = 20
-        else:
-            self.Score += Value
-
-class Int(object):
-    def __init__(self):
-        self.Score = 10
-        self.Mod = 0
-        
-    def addIntelligence(self, Value):
-        if self.Score + Value > 20:
-            self.Core = 20
-        else:
-            self.Score += Value
-
-class Wis(object):
-    def __init__(self):
-        self.Score = 10
-        self.Mod = 0
-        
-    def addWisdom(self, Value):
-        if self.Score + Value > 20:
-            self.Core = 20
-        else:
-            self.Score += Value
-
-class Cha(object):
-    def __init__(self):
-        self.Score = 10
-        self.Mod = 0
-        
-    def addCharisma(self, Value):
-        if self.Score + Value > 20:
-            self.Core = 20
-        else:
-            self.Score += Value
+            
+        self.Mod = math.floor((self.Score - 10) / 2)
 
 class Stats(object):
     """Stats"""
     def __init__(self):
-        self.Str = Str()
-        self.Dex = Dex()
-        self.Con = Con()
-        self.Int = Int()
-        self.Wis = Wis()
-        self.Cha = Cha()
+        self.Str = Ability()
+        self.Dex = Ability()
+        self.Con = Ability()
+        self.Int = Ability()
+        self.Wis = Ability()
+        self.Cha = Ability()
         self.HP = 0
         self.FS = 0
         self.Speed = 0
         self.Renown = 0
 
-    def setMods(self):
-        self.Str.Mod = math.floor((self.Str.Score - 10) / 2)
-        self.Dex.Mod = math.floor((self.Dex.Score - 10) / 2)
-        self.Con.Mod = math.floor((self.Con.Score - 10) / 2)
-        self.Int.Mod = math.floor((self.Int.Score - 10) / 2)
-        self.Wis.Mod = math.floor((self.Wis.Score - 10) / 2)
-        self.Cha.Mod = math.floor((self.Cha.Score - 10) / 2)
-        
     def addHP(self, Hitpoints):
         self.HP += Hitpoints
         
@@ -218,8 +157,6 @@ class Character(object):
         self.Magic = Magic()
         self.Inventory = Inventory()
 
-        self.Stats.setMods()
-
     def addPastExperience(self, Event):
         if isinstance(Event, int):
             self.PlayerInfo.Contacts += Event
@@ -290,13 +227,12 @@ class Character(object):
             
             self.addPastExperience(result['PastExperience'])
             self.addPastExperience(int(result['Contacts']))
-            self.Stats.Str.addStrength(int(result['STR']))
-            self.Stats.Dex.addDexterity(int(result['DEX']))
-            self.Stats.Con.addConstitution(int(result['CON']))
-            self.Stats.Int.addIntelligence(int(result['INT']))
-            self.Stats.Wis.addWisdom(int(result['WIS']))
-            self.Stats.Cha.addCharisma(int(result['CHA']))
-            self.Stats.setMods()
+            self.Stats.Str.addScore(int(result['STR']))
+            self.Stats.Dex.addScore(int(result['DEX']))
+            self.Stats.Con.addScore(int(result['CON']))
+            self.Stats.Int.addScore(int(result['INT']))
+            self.Stats.Wis.addScore(int(result['WIS']))
+            self.Stats.Cha.addScore(int(result['CHA']))
             self.Stats.addSpeed(int(result['Speed']))
             self.Stats.addRenown(int(result['Renown']))
             self.addSkills('Athletics', int(result['Athletics']))
